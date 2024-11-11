@@ -8,7 +8,7 @@
   - [osTicket: Ticket Solutions](https://github.com/Aalani-Wedlow/osTicket-Ticket-Solutions/blob/main/README.md)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Aalani-Wedlow/config-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aalani-Wedlow/azure-network-protocol/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
